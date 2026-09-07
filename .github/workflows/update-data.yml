@@ -9,7 +9,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Fetch latest data from OneDrive
-        run: curl -L "${{ secrets.ONEDRIVE_URL }}" -o data.json
+        run: |
+          curl -L -f -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "${{ secrets.ONEDRIVE_URL }}" -o data.json.tmp
+          python3 -c "import json; json.load(open('data.json.tmp'))"
+          mv data.json.tmp data.json
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
