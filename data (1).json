@@ -1,0 +1,425 @@
+{
+  "generatedAt": "2026-09-07T07:55:00-05:00",
+  "opening": [
+    {
+      "date": "2026-08-31",
+      "time": "1:35 PM",
+      "clinic": "NW OKC",
+      "staff": "Alyssa McGurk",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "No",
+        "Yes",
+        "No",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "time": "10:41 AM",
+      "clinic": "Edmond",
+      "staff": "Ivy",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "time": "11:32 AM",
+      "clinic": "NW OKC",
+      "staff": "Michelle Hernandez",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "No",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "time": "6:09 PM",
+      "clinic": "Edmond",
+      "staff": "Shab",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "time": "3:08 PM",
+      "clinic": "Edmond",
+      "staff": "Ivy",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:58 AM",
+      "clinic": "NW OKC",
+      "staff": "Erica",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "No",
+        "Yes",
+        "No",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:58 AM",
+      "clinic": "Edmond",
+      "staff": "Shab",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "time": "2:23 PM",
+      "clinic": "NW OKC",
+      "staff": "Erica",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "time": "8:00 AM",
+      "clinic": "Edmond",
+      "staff": "Ivy",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "time": "9:57 AM",
+      "clinic": "South",
+      "staff": "Erica",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "time": "12:24 PM",
+      "clinic": "NW OKC",
+      "staff": "Stephen Davis",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "time": "7:58 AM",
+      "clinic": "NW OKC",
+      "staff": "Leeanne",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "time": "10:36 AM",
+      "clinic": "Edmond",
+      "staff": "Ivy",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "time": "12:08 PM",
+      "clinic": "South",
+      "staff": "Erica",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "time": "7:42 AM",
+      "clinic": "Edmond",
+      "staff": "Erica",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "time": "7:55 AM",
+      "clinic": "South",
+      "staff": "Jesus",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    }
+  ],
+  "closing": [
+    {
+      "date": "2026-09-02",
+      "time": "9:05 PM",
+      "clinic": "NW OKC",
+      "staff": "Leeanne Cox",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "time": "9:18 PM",
+      "clinic": "NW OKC",
+      "staff": "Janeth / Michelle",
+      "vals": [
+        "No",
+        "No",
+        "No",
+        "No",
+        "Yes",
+        "No",
+        "No",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "time": "11:59 AM",
+      "clinic": "Edmond",
+      "staff": "Shab",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "No",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "time": "8:09 PM",
+      "clinic": "Edmond",
+      "staff": "Ivy",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "time": "9:11 PM",
+      "clinic": "NW OKC",
+      "staff": "chris",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "time": "5:46 PM",
+      "clinic": "South",
+      "staff": "Chris",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "time": "6:39 PM",
+      "clinic": "NW OKC",
+      "staff": "Leeanne Cox",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "time": "8:53 PM",
+      "clinic": "Edmond",
+      "staff": "Shab",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "N/A"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "time": "7:41 AM",
+      "clinic": "South",
+      "staff": "Erica",
+      "vals": [
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes",
+        "No",
+        "N/A"
+      ]
+    }
+  ]
+}
